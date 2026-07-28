@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 For a complete curriculum vitae, please download my CV:
 
-[Download CV](../files/Gong_academic CV.pdf)
+[Download CV](../files/Gong_Chen_CV.pdf)
 ## Education
 
 **Ph.D. in General, Visceral and Transplantation Surgery**  
