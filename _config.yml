@@ -24,13 +24,13 @@ repository               : "gongchenphd/gongchenphd.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gong Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Physician Scientist<br />Translational Oncology Researcher"
+  location         : "Germany"
+  employer         : "Heidelberg University Medical Faculty"
+  uri              : "https://gongchenphd.github.io"
+  email            : "gong.chen@stud.uni-heidelberg.de"
 
   # Academic websites
   academia         : # URL
